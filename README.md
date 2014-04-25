@@ -1,5 +1,7 @@
-photo_gallery
+Photo Gallery
 =============
+
+by Aziez Ahmed Chawdhary
 
 I like to share my photos on my hard disk over HTTP on my local network.
 Rather than see the directory listing, I wanted a simple way to view the photos sequentially.
