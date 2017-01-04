@@ -29,7 +29,7 @@ git clone https://github.com/aziezahmed/photo-gallery.git
 
 ## Authors
 
-* **Aziez Ahmed Chawdhary(https://github.com/aziezahmed)**
+* **[Aziez Ahmed Chawdhary](https://github.com/aziezahmed)**
 
 ## License
 
